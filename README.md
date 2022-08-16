@@ -11,7 +11,7 @@
  - 🌎 Sou Brasileiro, nascido em Goiânia
  - 🔭 Atualmente estou trabalhando na sustentação de um programa ITSM 
  - 🌱 Atualmente estou aprendendo Vue.JS, Vuex, API Rest 
- - 💬 Pergunte-me sobra qualquer coisa, posso não saber a resposta, mas podemos procurar juntos!
+ - 💬 Pergunte-me sobre qualquer coisa, posso não saber a resposta, mas podemos procurar juntos!
  - 😄 Pronomes: Ele/Dele
  - 👍 Eu gosto de: música, ler, viajar, jogar, astronomia, star wars
 
