@@ -1,5 +1,4 @@
 ## Hello there 👋 // Olá pessoal 👋
-### My name is João Victor P Gomes
  - 🌎 I’m Brazilian 🇧🇷
  - 🔭 I’m currently working on ITSM software support
  - 🌱 I’m currently learning Vue.JS, Vuex, Rest API
@@ -7,7 +6,6 @@
  - 😄 Pronouns: He/Him
  - 👍 I like: music, reading, travelling, playing games, astronomy, star wars
 ---
-### Meu nome é João Victor P. Gomes
  - 🌎 Sou Brasileiro, nascido em Goiânia
  - 🔭 Atualmente estou trabalhando na sustentação de um programa ITSM 
  - 🌱 Atualmente estou aprendendo Vue.JS, Vuex, API Rest 
