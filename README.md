@@ -6,7 +6,7 @@
  - 😄 Pronouns: He/Him
  - 👍 I like: music, reading, travelling, playing games, astronomy, star wars
 ---
- - 🌎 Sou Brasileiro, nascido em Go iânia
+ - 🌎 Brasileiro, nascido em Goiânia
  - 🔭 Atualmente estou trabalhando com desenvolvimento de relatórios automatizados para uma operação de TI
  - 🌱 Atualmente estou aprendendo Vue.JS, Vuex, API Rest 
  - 💬 Pergunte-me sobre qualquer coisa, posso não saber a resposta, mas podemos procurar juntos!
