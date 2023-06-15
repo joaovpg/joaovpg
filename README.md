@@ -1,14 +1,14 @@
 ## Hello there 👋 // Olá pessoal 👋
  - 🌎 I’m Brazilian 🇧🇷
  - 🔭 I’m currently working on developing automated reports for an IT operation
- - 🌱 I’m currently learning Vue.JS, Vuex, Rest API
+ - 🌱 I’m currently learning React, Rest API
  - 💬 Ask me about anything, I may not know the answer but we can look it up together!
  - 😄 Pronouns: He/Him
  - 👍 I like: music, reading, travelling, playing games, astronomy, star wars
 ---
  - 🌎 Brasileiro, nascido em Goiânia
  - 🔭 Atualmente estou trabalhando com desenvolvimento de relatórios automatizados para uma operação de TI
- - 🌱 Atualmente estou aprendendo Vue.JS, Vuex, API Rest 
+ - 🌱 Atualmente estou aprendendo React, API Rest 
  - 💬 Pergunte-me sobre qualquer coisa, posso não saber a resposta, mas podemos procurar juntos!
  - 😄 Pronomes: Ele/Dele
  - 👍 Eu gosto de: música, ler, viajar, jogar, astronomia, star wars
